@@ -1,0 +1,2 @@
+test.biz|10.1.1.1|/home/httpd|ftp
+coba.com|12.1.1.1|/home/test|cbcb
